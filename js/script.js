@@ -35,8 +35,8 @@
   const PROGRAMS = [
     { tag: 'Amostragem', title: 'PEP de Amostragem', region: 'Programa Nacional', date: '16 Mar 2026', img: 'https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&w=1200&q=80' },
     { tag: 'Ambiental', title: 'Análises Ambientais', region: 'Programa Nacional', date: '30 Mar 2026', img: 'https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80' },
-    { tag: 'Óleos & Graxas', title: 'Óleos e Graxas', region: 'Programa Nacional', date: '20 Abr 2026', img: '/assets/oleos.jpg' },
-    { tag: 'Sólidos', title: 'Série Sólidos', region: 'Águas residuárias', date: '20 Abr 2026', img: '/assets/sediment.jpg' },
+    { tag: 'Óleos & Graxas', title: 'Óleos e Graxas', region: 'Programa Nacional', date: '20 Abr 2026', img: 'assets/oleos.jpg' },
+    { tag: 'Sólidos', title: 'Série Sólidos', region: 'Águas residuárias', date: '20 Abr 2026', img: 'assets/sediment.jpg' },
     { tag: 'Físico-Química', title: 'Águas para Consumo', region: 'Programa Nacional', date: '12 Mai 2026', img: 'https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=1200&q=80' },
     { tag: 'Microbiologia', title: 'Microbiologia da Água', region: 'Programa Nacional', date: '08 Jun 2026', img: 'https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=1200&q=80' }
   ];
